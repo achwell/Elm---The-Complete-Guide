@@ -1,0 +1,13 @@
+{
+  "name": "happy-birthday",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "elm-live src/Main.elm -- --debug --output=index.js",
+    "compile": "elm make src/Main.elm --output=index.js"
+  },
+  "devDependencies": {
+    "elm-live": "^4.0.2"
+  }
+}

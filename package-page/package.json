@@ -1,0 +1,9 @@
+{
+  "name": "package-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "compile": "elm make src/Main.elm --output=index.js"
+  }
+}
