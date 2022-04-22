@@ -1,3 +1,5 @@
 node_modules
 elm-stuff
 .DS_Store
+index.js
+fuzz/index.html
